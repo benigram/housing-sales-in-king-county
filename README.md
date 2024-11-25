@@ -1,4 +1,4 @@
-# Housing Sales in King County,Washington
+# Housing Sales in King County, Washington
 
 This project is centered around exploratory data analysis techniques. I used the the King County Housing Data: This dataset contains information about home sales in King County (USA). It is a predominantly urban and suburban county. Through EDA/statistical analysis above I came up with the overall data.
 
