@@ -12,7 +12,7 @@ In addition I also came up with three recommendations for my client Jennifer Mon
 - python==3.11.3
 
 ## Set up your Environment
-This repo contains a requirements.txt file with a list of all the packages and dependencies you will need.
+This repo contains a `requirements.txt` file with a list of all the packages and dependencies you will need.
 
 Before you can start with plotly in Jupyter Lab you have to install node.js (if you haven't done it before).
 - Check **Node version**  by run the following commands:
