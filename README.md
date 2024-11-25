@@ -70,3 +70,8 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
     pip install --upgrade pip
     pip install -r requirements.txt
     ```
+
+Note: If you encounter an error when trying to run pip install --upgrade pip, try using the following command:
+```
+python.exe -m pip install --upgrade pip
+```
