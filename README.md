@@ -1,4 +1,3 @@
-[![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
 # Housing Sales in King County,Washington
 
 This project is centered around exploratory data analysis techniques. I used the the King County Housing Data: This dataset contains information about home sales in King County (USA). It is a predominantly urban and suburban county. Through EDA/statistical analysis above I came up with the overall data.
